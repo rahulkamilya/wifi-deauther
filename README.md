@@ -22,6 +22,6 @@ Contributions are welcome! Please adhere to the project's code of conduct and su
 This project is intended for educational or authorized testing purposes only. Unauthorized or malicious use is strictly prohibited. The project owner and contributors are not responsible for any misuse or damages caused.
 
 ## License
-This project is licensed under the [insert license name]. Refer to the LICENSE file for more information.
+This project is licensed under the MIT. Refer to the LICENSE file for more information.
 
 Enjoy exploring the security aspects of wireless networks with WiFi Deauther using NodeMCU8266! Stay ethical and responsible in your testing endeavors.
